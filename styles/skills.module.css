@@ -1,0 +1,12 @@
+.Skills{
+    display:grid;
+    grid-template-columns: 600px 600px ;
+    margin-top:30px;
+    justify-content:center;
+}
+
+.center{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
